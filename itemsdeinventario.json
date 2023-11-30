@@ -1,0 +1,110 @@
+{
+   "InventoryItems": {
+      "InventoryItem": [
+         {
+            "Tituloarticulo": "Small Sword",
+            "Descripcionarticulo": "This is the first sword you find on your journey. Not very powerful, but it will always be by your side.",
+            "Color": {
+               "r": "167",
+               "g": "167",
+               "b": "167",
+               "a": "255"
+            },
+            "Image": "smallsword",
+            "_Type": "weapon",
+            "_ID": "xmltut_small_sword"
+         },
+         {
+            "Tituloarticulo": "Steel Helmet",
+            "Descripcionarticulo": "This helmet crafted from shiny steel will surely protect your noggin in battle.",
+            "Color": {
+               "r": "19",
+               "g": "218",
+               "b": "0",
+               "a": "255"
+            },
+            "Image": "steelhelmet",
+            "_Type": "armor",
+            "_ID": "xmltut_steel_helmet"
+         },
+         {
+            "Tituloarticulo": "Small Potion",
+            "Descripcionarticulo": "Restores 50 health.",
+            "Color": {
+               "r": "19",
+               "g": "218",
+               "b": "0",
+               "a": "255"
+            },
+            "Image": "50healthpot",
+            "_Type": "consumable",
+            "_ID": "xmltut_health_potion_50"
+         },
+         {
+            "Tituloarticulo": "Legendary Sword",
+            "Descripcionarticulo": "The Legendary Sword will slay all enemies in your path with ease. Due to it's size, it may be slow to swing.",
+            "Color": {
+               "r": "255",
+               "g": "255",
+               "b": "0",
+               "a": "255"
+            },
+            "Image": "bigsword",
+            "_Type": "weapon",
+            "_ID": "xmltut_big_sword"
+         },
+         {
+            "Tituloarticulo": "Recurve Bow",
+            "Descripcionarticulo": "Shoot enemies from a safe distance with the Recurve Bow! Just don't forget to bring enough arrows!",
+            "Color": {
+               "r": "69",
+               "g": "169",
+               "b": "255",
+               "a": "255"
+            },
+            "Image": "recurvebow",
+            "_Type": "weapon",
+            "_ID": "xmltut_bow"
+         },
+         {
+            "Tituloarticulo": "Chain Mail",
+            "Descripcionarticulo": "This light-weight armor will protect you from small impacts.",
+            "Color": {
+               "r": "19",
+               "g": "218",
+               "b": "0",
+               "a": "255"
+            },
+            "Image": "chainmail",
+            "_Type": "armor",
+            "_ID": "xmltut_chain_mail"
+         },
+         {
+            "Tituloarticulo": "Big Potion",
+            "Descripcionarticulo": "Restores 100 health.",
+            "Color": {
+               "r": "69",
+               "g": "169",
+               "b": "255",
+               "a": "255"
+            },
+            "Image": "100healthpot",
+            "_Type": "consumable",
+            "_ID": "xmltut_health_potion_100"
+         },
+         {
+            "Tituloarticulo": "Wooden Shield",
+            "Descripcionarticulo": "This shield protects you from small and medium strength impacts when you are not attacking.",
+            "Color": {
+               "r": "19",
+               "g": "218",
+               "b": "0",
+               "a": "255"
+            },
+            "Image": "woodshield",
+            "_Type": "armor",
+            "_ID": "xmltut_wood_shield"
+         }
+      ]
+   }
+}
